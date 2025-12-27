@@ -8,7 +8,7 @@ Aplikasi ini dibuat dengan menggunakan Laravel dan ReactJS dengan memisahkan bac
 # Role Manager
 
 ## Dashboard
-![Dashboard](/images/dashboard.PNG)
+![Dashboard](/images/dashboard-manager.PNG)
 
 ## Product
 ![Product](/images/product.PNG)
@@ -23,12 +23,12 @@ Aplikasi ini dibuat dengan menggunakan Laravel dan ReactJS dengan memisahkan bac
 ![merchant](/images/merchant.PNG)
 
 ## Manager User
-![user](/images/user.PNG)
+![user](/images/manage-user.PNG)
 
 # Role Keeper
 
 ## Dashboard
-![Dashboard](/images/dashboard.PNG)
+![Dashboard](/images/dashboard-manager.PNG)
 
 ## Transactions
 ![transaction](/images/transaction.PNG)
